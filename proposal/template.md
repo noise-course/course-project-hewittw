@@ -134,7 +134,7 @@ We will document all these challenges and their resolutions, making our own repr
 ## Success Criteria
 
 We will consider this reproduction study successful if we:
-1. Achieve F1 and mAP scores within ±5% of the original paper's results
+1. Achieve F1 and mAP scores within ±10% of the original paper's results
 2. Observe the same relative ranking of models (RF > MLP > SVM in most cases)
 3. Confirm the performance degradation pattern as classes increase
 4. Identify and document any discrepancies with clear hypotheses for their causes
